@@ -225,6 +225,9 @@ Permission wording for new work: **“Do I have your permission to start working
 - GitHub repo description, topics (`ai`, `project-planning`, `documentation`, `markdown`), and visibility (`public`) all set.
 - Desired outcome achieved: the ground-truth.md system is now displayed as a working GitHub repo using the very file as the live example.
 
+### 2026-06-17 (later)
+- Replaced the lean `templates/ground-truth.md` (44 lines, simplified) with the fuller meta-template the user authored (205 lines, includes the 10-question design history + locked decisions + clean per-project structure). Visitors now copy the same file that originally seeded the system, so the rationale for each rule ships with the rule.
+
 ## 25-Question Planning Flow (Desired Outcome: Display how the ground-truth.md system works for any project, and post it on GitHub)
 
 **Question 1 of 25 — Repo scope**
