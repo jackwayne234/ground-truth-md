@@ -227,6 +227,7 @@ Permission wording for new work: **“Do I have your permission to start working
 
 ### 2026-06-17 (later)
 - Replaced the lean `templates/ground-truth.md` (44 lines, simplified) with the fuller meta-template the user authored (205 lines, includes the 10-question design history + locked decisions + clean per-project structure). Visitors now copy the same file that originally seeded the system, so the rationale for each rule ships with the rule.
+- Updated README quickstart to match the actual workflow: create folder → drop file → tell AI to read it → AI does the rest. The 10-question history and locked decisions are for the AI to read, not the visitor.
 
 ## 25-Question Planning Flow (Desired Outcome: Display how the ground-truth.md system works for any project, and post it on GitHub)
 

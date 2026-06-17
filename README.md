@@ -4,9 +4,10 @@ A `ground-truth.md` file is the source of truth for any project. It stops your A
 
 ## Quickstart
 
-1. Copy [`templates/ground-truth.md`](./templates/ground-truth.md) into the root of your project.
-2. Open it with your AI assistant. Answer the 25 planning questions, one at a time.
-3. When the questions are done, your AI assistant will summarize what is known, list any remaining gaps, and ask: "Do I have your permission to start working from this ground truth and chunk plan?"
+1. Create a folder for your project.
+2. Drop [`templates/ground-truth.md`](./templates/ground-truth.md) into the folder.
+3. Open a terminal in that folder, log into your AI assistant, and tell it to read `ground-truth.md`.
+4. Your AI assistant does the rest: asks for your desired outcome, runs the 25 planning questions one at a time, summarizes what is known, builds a chunk plan, and asks for permission before starting work.
 
 ## How it works
 
