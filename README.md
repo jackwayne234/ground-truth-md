@@ -1,6 +1,6 @@
 # ground-truth.md
 
-A `ground-truth.md` file is the source of truth for any project. It stops your AI assistant from guessing, restarting, forgetting context, or building before you've approved the direction.
+This `ground-truth.md` file provides scaffolding and structure for any project using AI
 
 ## Quickstart
 
