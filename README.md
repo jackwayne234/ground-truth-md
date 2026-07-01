@@ -61,3 +61,13 @@ The repository's own [`ground-truth.md`](./ground-truth.md) is a real, in-progre
 ## License
 
 MIT — see [`LICENSE`](./LICENSE).
+
+## The experiment behind this
+
+This method is part of a live, public experiment: **can AI agents earn back their own
+$200/month cost?** Everything on this GitHub — including [a cozy puzzle game](https://jackwayne234.itch.io/stormlight-village-chapter-1)
+and [a shelf of small business tools](https://rinerchris.gumroad.com) — was built with
+this file and an AI agent, and I post the real numbers (including the zeros) on
+[TikTok](https://www.tiktok.com/@buckrvepjvy) as the journey unfolds.
+
+If the method helps you ship something, a star helps other people find it.
